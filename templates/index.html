@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>51Job职位在线分析平台</title>
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body{
+            background-image:url("../static/images/logo.jpg");
+            background-size:150px ;
+            background-position:60% 100%;
+            background-repeat:no-repeat ;
+
+
+        }
+        .sercaj{
+            margin: 0 auto;
+            text-align: center;
+            margin-top: 200px;
+
+        }
+        .s{
+            height: 34px;
+            border: 1px solid gray;
+        }
+
+        .data span{
+            float: left;
+            color: #0f0f0f;
+            opacity: 1;
+        }
+        .data a{
+            text-align: center;
+            margin-top: 1px;
+            float: right;
+            text-decoration: none;
+            width: 80px;
+            height: 21px;
+            background-color: greenyellow;
+            box-shadow: 1px 1px 2px 2px darkgreen ;
+            color: black;
+            font-weight: bold;
+            opacity: 1;
+        }
+        p{
+            margin-top: 20px;
+            font-size: 15px;
+            font-weight: bold;
+
+        }
+        	*{margin: 0;padding: 0;}
+			table{
+				background: white;
+				width: 380px;height: auto;
+				position:absolute;
+				left:0;
+				top: 0;
+				bottom: 0;
+				right: 0;
+				margin: auto;
+				text-align: center;
+				border-style: solid;
+				font-size: 15px;
+				border-collapse: collapse;
+				border-color: #e6e6e6;
+			}
+			#fir {
+				width: 280px;height: 30px;
+			}
+			#sec{
+				width: 100px;height: 30px;
+				background:#3385ff;
+				color: #fff;
+			}
+			#secc{
+				width: 100px;height: 30px;
+			}
+			.tsd{
+				border-collapse: collapse;
+			}
+			a{
+			text-decoration:none;
+			color:#fff ;
+			}
+            #text{
+                text-align: center;
+                top: 50px;
+            }
+    </style>
+</head>
+<body>
+<div class="sercaj">
+    <h1>51Job职位在线分析</h1>
+    <br>
+    <form action="/serach"  method="post">
+        <center>
+        <div class="form-inline input-group">
+                <input type="text" class="s" placeholder="输入您要分析的岗位" name="phonecoo" size="30" style="width:240px;" >
+                <input type="submit"  class="btn btn-default"  value="搜索一下"/>
+        </div>
+        </center>
+    </form>
+</div>
+<div class="tsd">
+		<table border="1" cellspacing="0">
+            <p id="text">{{ mss }}</p>
+		    <tr>
+		        <th id="fir"><center>职位</center></th>
+		        <th id="secc"><center>操作</center></th>
+		    {% for nuber in msg %}
+			<tr>
+			    <td id="fir">{{ nuber[0] }}</td>
+			    <td id="sec"><a href="{{ nuber[1] }}">{{ nuber[2] }}</a></td>
+			</tr>
+            {% endfor %}
+		</table>
+		</div>
+<script src="../static/js/bootstrap.js"></script>
+<script src="../static/js/bootstrap.min.js"></script>
+</body>
+</html>

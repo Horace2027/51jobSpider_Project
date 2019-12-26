@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="819e12ed-c761-4788-84c8-39d184b1b4c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ilfeproject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Urk4n8HzTW0kRvjay4EdiQoZtm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.splitter.proportion" value="0.22222222" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\代码库\Pyython\ilfeproject\templates" />
+      <recent name="C:\Users\admin\Desktop\代码库\Pyython\ilfeproject\static\font" />
+      <recent name="C:\Users\admin\Desktop\代码库\Pyython\ilfeproject\static\css" />
+      <recent name="C:\Users\admin\Desktop\代码库\Pyython\ilfeproject\static\js" />
+      <recent name="C:\Users\admin\Desktop\代码库\Pyython\ilfeproject\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Test">
+    <configuration name="render.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:61921/ilfeproject/Clean/render.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ilfeproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spiderINFO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spiderINFO/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="salor_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ilfeproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spiderINFO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spiderINFO/salor_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ilfeproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spiderINFO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spiderINFO/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="ilfeproject" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ilfeproject" type="Python.FlaskServer">
+      <module name="ilfeproject" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.salor_test" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+        <item itemvalue="JavaScript Debug.render.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="819e12ed-c761-4788-84c8-39d184b1b4c9" name="Default Changelist" comment="" />
+      <created>1576121912302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576121912302</updated>
+      <workItem from="1576121913844" duration="52527000" />
+      <workItem from="1576311886830" duration="167000" />
+      <workItem from="1576312236955" duration="15000" />
+      <workItem from="1576312265340" duration="269000" />
+      <workItem from="1576318463042" duration="2681000" />
+      <workItem from="1576322547005" duration="9143000" />
+      <workItem from="1576401412668" duration="15875000" />
+      <workItem from="1576430598247" duration="97000" />
+      <workItem from="1576431072132" duration="3483000" />
+      <workItem from="1576436582673" duration="12052000" />
+      <workItem from="1576481525373" duration="28000" />
+      <workItem from="1576492423716" duration="3657000" />
+      <workItem from="1576505663263" duration="10705000" />
+      <workItem from="1576550127512" duration="5822000" />
+      <workItem from="1576557984746" duration="2233000" />
+      <workItem from="1576561549163" duration="11644000" />
+      <workItem from="1576594589601" duration="4470000" />
+      <workItem from="1576607767034" duration="15396000" />
+      <workItem from="1576651547643" duration="16015000" />
+      <workItem from="1576670161023" duration="39000" />
+      <workItem from="1576670235426" duration="4046000" />
+      <workItem from="1576675871413" duration="2199000" />
+      <workItem from="1576687667140" duration="3588000" />
+      <workItem from="1576724943353" duration="901000" />
+      <workItem from="1576725879098" duration="520000" />
+      <workItem from="1576753202583" duration="550000" />
+      <workItem from="1576753869088" duration="486000" />
+      <workItem from="1576754371180" duration="35000" />
+      <workItem from="1576754432636" duration="12000" />
+      <workItem from="1576754451247" duration="534000" />
+      <workItem from="1576765767862" duration="4049000" />
+      <workItem from="1576809425662" duration="2849000" />
+      <workItem from="1576819577812" duration="311000" />
+      <workItem from="1576825299107" duration="7917000" />
+      <workItem from="1576839496342" duration="968000" />
+      <workItem from="1576850215112" duration="2696000" />
+      <workItem from="1577027856270" duration="345000" />
+      <workItem from="1577028299161" duration="235000" />
+      <workItem from="1577031177092" duration="2326000" />
+      <workItem from="1577068690969" duration="1420000" />
+      <workItem from="1577070340055" duration="389000" />
+      <workItem from="1577105511381" duration="15000" />
+      <workItem from="1577105539135" duration="612000" />
+      <workItem from="1577106180570" duration="3000" />
+      <workItem from="1577106206569" duration="26000" />
+      <workItem from="1577106240251" duration="22000" />
+      <workItem from="1577155795649" duration="2265000" />
+      <workItem from="1577158461935" duration="701000" />
+      <workItem from="1577343841365" duration="5000" />
+      <workItem from="1577343859523" duration="1967000" />
+      <workItem from="1577346862274" duration="3645000" />
+      <workItem from="1577351627508" duration="433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1576637394758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1576637394758" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576501835701">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576501835701" />
+    <state x="525" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576432713525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1576432713525" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576810173674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1576810173674" />
+    <state x="547" y="153" key="FileChooserDialogImpl" timestamp="1576657805783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576657805783" />
+    <state x="650" y="334" width="382" height="173" key="Github.CreateGistDialog" timestamp="1576561879590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="650" y="334" width="382" height="173" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1576561879590" />
+    <state width="1493" height="244" key="GridCell.Tab.0.bottom" timestamp="1577352062610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577352062610" />
+    <state width="1493" height="244" key="GridCell.Tab.0.center" timestamp="1577352062610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="244" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577352062610" />
+    <state width="1493" height="244" key="GridCell.Tab.0.left" timestamp="1577352062610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="244" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577352062610" />
+    <state width="1493" height="244" key="GridCell.Tab.0.right" timestamp="1577352062610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="244" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577352062610" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1577158062674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577158062674" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1577158062673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577158062673" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1577158062673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577158062673" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1577158062673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577158062673" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1577344195660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577344195660" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1577351627464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577351627464" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577351698699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577351698699" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ilfeproject$Test.coverage" NAME="Test Coverage Results" MODIFIED="1577352036278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderINFO" />
+    <SUITE FILE_PATH="coverage/ilfeproject$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1577348533930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ilfeproject$salor_test.coverage" NAME="salor_test Coverage Results" MODIFIED="1577348543515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderINFO" />
+  </component>
+</project>
