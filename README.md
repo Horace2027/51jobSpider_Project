@@ -18,3 +18,6 @@
 </ul>
      
  详情：http://106.13.9.239/index.php/archives/55/
+
+<h2>前端页面</h2>
+![avatar](http://106.13.9.239/usr/uploads/2020/01/42190012.jpg)
