@@ -20,5 +20,5 @@
  详情：http://106.13.9.239/index.php/archives/55/
 
 <h2>数据结构</h2>
- ![image](https://github.com/yuanhaiGreg/51jobSpider_Project/blob/master/md/data.jpg)
+![image](https://github.com/yuanhaiGreg/51jobSpider_Project/blob/master/md/data.jpg)
 
