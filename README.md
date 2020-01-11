@@ -1,5 +1,6 @@
 # 51jobSpider_Project
 #51Job职位在线分析系统
+![](https://img.shields.io/badge/Python-3.7.4-green.svg)
 <h1>共计1200行代码</h1>
 <ul>技术栈:<ul>
      <li>Flask</li>
